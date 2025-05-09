@@ -1,0 +1,29 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+*.swp
+*.tmp
+*.bak
+
+# Archivos de Unity
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Archivos de paquetes de Unity
+*.unitypackage
